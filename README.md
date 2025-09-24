@@ -7,5 +7,7 @@ A simple Python script to download images from a given URL and save them in a `F
    ```bash/cmd
    pip install requests
 python fetch.py
+
 Enter a direct image URL (e.g., https://example.com/image.jpg).
+
 The image will be saved automatically in the folder.
